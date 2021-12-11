@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BLUE
+  - RED
+  - YELLOW
+  - Enemy
+  - RedTrack
+  - BlueTrack
+  - YellowTrack
+  - RedText
+  - BlueText
+  - YellowText
+  - Blob
+  - BLUE PERM
+  - RED PERM
+  - YELLOW PERM
+  - Cleaner
+  - Number
+  - Platform
+  - PlatformVert
+  - ResetTool
+  - RedBlob
+  - Red2
+  - Red3
+  - Checkpoint
+  - Go Through
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Paint
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Obstacle
+  - Color Number
+  - BULLET
+  - Cleaner
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
